@@ -7,7 +7,7 @@ To play this game, download the items in the repository and double-click on "Pon
 
 Controls:
 Player 1:  Move Up - W key
-           Move Down - S key
+           Move Down - S key \n
 Player 2:  Move Up - Up Arrow key
            Move Down - Down Arrow key
            
