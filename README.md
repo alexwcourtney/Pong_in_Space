@@ -6,8 +6,10 @@ This game only supports two human players.
 To play this game, download the items in the repository and double-click on "Pong but in Space.exe"
 
 Controls:
+
 Player 1:  Move Up - W key
-           Move Down - S key \n
+           Move Down - S key
+           
 Player 2:  Move Up - Up Arrow key
            Move Down - Down Arrow key
            
