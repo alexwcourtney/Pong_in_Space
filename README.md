@@ -1,6 +1,6 @@
 # Pong_in_Space
 
-This is a pong clone built using Unity and C#.
+This is a pong clone built using Unity and scripts written in C#.
 This game only supports two human players.
 
 To play this game, download the items in the repository and double-click on "Pong but in Space.exe"
